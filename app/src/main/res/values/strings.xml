@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assignment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="christmas_fragment_name">Christmas</string>
+    <string name="For_him_fragment_name">For Him</string>
+    <string name="For_her_fragment_name">For Her</string>
+    <string name="Inspirational_fragment_name">Inspirational</string>
+    <string name="For_me_fragment_name">For Me</string>
+    <string name="No_name_fragment">No Name</string>
+    
+    <string name="ALL_PHOTOS">ALL</string>
+    <string name="ONE_PHOTO">1 PHOTO</string>
+    <string name="TWO_PHOTO">2 PHOTO</string>
+    <string name="FIVE_PHOTO">5 PHOTO</string>
+
+    <string name="ALL_PRICES">ALL</string>
+    <string name="LESS_THAN_500">500+</string>
+    <string name="MORE_THAN_500">-500</string>
+
+    <string name="Positive_Button">OK</string>
+    <string name="Negative_Button">Cancel</string>
+
+    <string name="Bottom_Text">Didnt find design to your taste?</string>
+</resources>
