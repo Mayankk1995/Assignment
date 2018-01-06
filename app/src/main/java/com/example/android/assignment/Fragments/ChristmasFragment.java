@@ -40,12 +40,14 @@ public class ChristmasFragment extends Fragment {
         recyclerView.setLayoutManager(staggeredGridLayoutManager);
 
         List<Integer> listOfImages = new ArrayList<>();
-        listOfImages.add(R.drawable.cam);
-        listOfImages.add(R.drawable.cool3);
+        listOfImages.add(R.drawable.muffin);
         listOfImages.add(R.drawable.menu);
-        listOfImages.add(R.drawable.cool3);
+        listOfImages.add(R.drawable.muffins);
+        listOfImages.add(R.drawable.random);
+        listOfImages.add(R.drawable.muffins);
+        listOfImages.add(R.drawable.butterfly);
         listOfImages.add(R.drawable.menu);
-        listOfImages.add(R.drawable.cam);
+        listOfImages.add(R.drawable.scenery);
         listOfImages.add(R.drawable.butterfly);
 
         RecyclerViewAdapter recyclerViewAdapter = new RecyclerViewAdapter(getContext(),listOfImages);
